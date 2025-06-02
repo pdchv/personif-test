@@ -1,0 +1,20 @@
+objectid,filename,title,object,building,date,city,latitude,longitude,location
+epin_001,ima.jpg,Epinoia in Vienna Dioskurides,ONB-Cod.med.gr.1 Vienna Dioskurides fol. 5v,None,0500/0525,Constantinople (Istanbul),41.00637141,28.96535174,"Vienna, ONB"
+eucha_001,ima.jpg,Eucharistia in Vienna Dioskurides,ONB-Cod.med.gr.1 Vienna Dioskurides fol. 6v,None,0500/0525,Constantinople (Istanbul),41.00637141,28.96535174,"Vienna, ONB"
+heur_001,ima.jpg,Heuresis in Vienna Dioskurides,ONB-Cod.med.gr.1 Vienna Dioskurides fol. 4v,None,0500/0525,Constantinople (Istanbul),41.00637141,28.96535174,"Vienna, ONB"
+mega_001,ima.jpg,Megalopsychia in Vienna Dioskurides,ONB-Cod.med.gr.1 Vienna Dioskurides fol. 6v,None,0500/0525,Constantinople (Istanbul),41.00637141,28.96535174,"Vienna, ONB"
+phron_001,ima.jpg,Phronesis in Vienna Dioskurides,ONB-Cod.med.gr.1 Vienna Dioskurides fol. 6v,None,0500/0525,Constantinople (Istanbul),41.00637141,28.96535174,"Vienna, ONB"
+poth_001,ima.jpg,Pothos in Vienna Dioskurides,ONB-Cod.med.gr.1 Vienna Dioskurides fol. 6v,None,0500/0525,Constantinople (Istanbul),41.00637141,28.96535174,"Vienna, ONB"
+arete_003,ima.jpg,Arete in Ephesus Library of Celsus,LIMC-40185 KHM-I 852 Arete sculpture from Library of Celsus,Library of Celsus,0100/0200,Ephesus/Arsinoe(ia),37.9393127,27.3408057,"Vienna, KHM"
+ennoia_001,ima.jpg,Ennoia in Ephesus Library of Celsus,LIMC-31454 KHM-I 928 Ennoia sculpture from Library of Celsus,Library of Celsus,0100/0200,Ephesus/Arsinoe(ia),37.9393127,27.3408057,"Vienna, KHM"
+epist_001,ima.jpg,Episteme in Ephesus Library of Celsus,KHM-I 881 Episteme sculpture from Library of Celsus,Library of Celsus,0100/0200,Ephesus/Arsinoe(ia),37.9393127,27.3408057,"Vienna, KHM"
+soph_004,ima.jpg,Sophia in Ephesus Library of Celsus,LIMC-11484 KHM-I 948 Sophia sculpture from Library of Celsus,Library of Celsus,0100/0200,Ephesus/Arsinoe(ia),37.9393127,27.3408057,"Vienna, KHM"
+ktis_015,ima.jpg,Ktisis at the Metropolitam Museum of Art,LIMC-202281 Fragment of a Floor Mosaic with a Personification of Ktisis,unknown,0500/0550,Unknown – Eastern Mediterranean (?),,,"New York, MET"
+kosmia_001,ima.jpg,Kosmia on Head Ornament,Walters-57.546 Head Ornament with Kosmia,none,0500/0600,Unknown – Eastern Mediterranean (?),,,"Baltimore, The Walters Art Museum"
+agor_001,ima.jpg,Agora in Necropolis of Mnemosyne,A-II-p193 5032-M74-B Necropolis of Mnemosyne Agora Panel,[24-L Dig C] Necropolis of Mnemosyne,0375/0400,Antiochia (Antakya),36.2225515,36.183214,Worcester Art Museum
+char_004,ima.jpg,Charis on Worcester Bracelet,WAM-2001.87 Bracelet Charis,None,0500 ca.,Unknown – Eastern Mediterranean (?),,,Worcester Art Museum
+euka_001,ima.jpg,Eukarpia in Necropolis of Mnemosyne,A-II-p193 5032-M74-C Necropolis of Mnemosyne Eukarpia Panel,[24-L Dig C] Necropolis of Mnemosyne,0375/0400,Antiochia (Antakya),36.2225515,36.183214,Worcester Art Museum
+euoc_001,ima.jpg,Euochia in Necropolis of Mnemosyne,A-II-p193 5032-M74-A Necropolis of Mnemosyne Symposium,[24-L Dig C] Necropolis of Mnemosyne,0375/0400,Antiochia (Antakya),36.2225515,36.183214,Worcester Art Museum
+ktis_002,ima.jpg,Ktisis in Antioch House of Ge and the Seasons,A-II-p194 5139-M78 House of Ge and the Seasons Room 4,[DH 24-P] House of Ge and the Seasons,0450/0475,Antiochia (Antakya) – Daphne (Harbiye),36.1336355,36.1378635,Worcester Art Museum
+mnem_001,ima.jpg,Mnemosyne in Necropolis of Mnemosyne,A-II-p193 5032-M74-A Necropolis of Mnemosyne Symposium,[24-L Dig C] Necropolis of Mnemosyne,0375/0400,Antiochia (Antakya),36.2225515,36.183214,Worcester Art Museum
+terps_001,ima.jpg,Terpsis in Mytilene mosaic,,House,Roman imperial ?,Mytilene,39.110475,26.547048,Mytilene
